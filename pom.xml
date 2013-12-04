@@ -6,7 +6,7 @@
     <groupId>com.tedwon.jboss.rhq</groupId>
     <artifactId>apache-kafka-rhq-plugin</artifactId>
     <packaging>jar</packaging>
-    <version>0.1-SNAPSHOT</version>
+    <version>0.2-SNAPSHOT</version>
     <name>RHQ Plugin for Apache Kafka 0.7.2</name>
     <url>http://tedwon.com</url>
     <inceptionYear>2012</inceptionYear>
