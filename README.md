@@ -1,7 +1,7 @@
 apache-kafka-rhq-plugin
 =======================
 
-Apache Kafka RHQ Plugin
+Apache Kafka 0.7.2 RHQ Plugin
 
 Build Plugin
 -------------------
