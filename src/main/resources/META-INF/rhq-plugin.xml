@@ -2,7 +2,7 @@
 <plugin name="Apache-Kafka-0.7.2-RHQ-Plugin"
         displayName="Apache Kafka 0.7.2 RHQ Plugin"
         description="Apache Kafka 0.7.2 RHQ Plugin"
-        version="0.1"
+        version="0.2"
         xsi:noNamespaceSchemaLocation="rhq-plugin.xsd"
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xmlns="urn:xmlns:rhq-plugin"
